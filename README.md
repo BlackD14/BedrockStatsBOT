@@ -35,4 +35,6 @@ python3 app.py
 <p align="center">
 <img width="480" height="350" src="online-msg.png">
 <img width="480" height="350" src="offline-msg.png">
+<br><br>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=BlackD14&color=blueviolet&style=flat-square"></p>
 </p>
